@@ -9,7 +9,7 @@ import org.testng.annotations.Test; // imported for used to control the next met
 
 import java.text.SimpleDateFormat;
 
-public class HomePage01
+public class HomePage
 {
     protected static WebDriver driver;
     // driver.findElement command is used to access any single element from web & here we created with .click
